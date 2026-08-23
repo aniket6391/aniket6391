@@ -4,7 +4,7 @@
 
 <img align="left" src="https://aniket6391.github.io/Portfolio-DS-/aniket.jpg" alt="Aniket Sharma" width="220" style="border-radius: 15px; border: 3px solid #58A6FF;" />
 
-<h1>Hi there, I'm Aniket Sharma <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1>Hi there, I'm Aniket Sharma <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" /></h1>
 
 <p>
   I am a highly motivated Computer Applications student focusing on <strong>Data Science, Machine Learning, and Artificial Intelligence</strong>. I enjoy working with complex data to discover meaningful insights, build predictive models, and solve real-world problems using intelligent, data-driven approaches.
@@ -24,9 +24,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Master+of+Computer+Applications+(MCA);Specializing+in+Machine+Learning+%26+AI;Building+Intelligent+Data-Driven+Applications" alt="Typing SVG" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" /> About Me
 
 - 🎓 Pursuing **Master of Computer Applications (MCA)** at *Lovely Professional University* (CGPA: 8.14)
 - 🎓 Completed **Bachelor of Computer Applications (BCA)** at *MJP Rohilkhand University* (72.84%)
@@ -34,9 +34,9 @@
 - 🎯 **Career Goal**: To excel as a Software Developer, Data Scientist, or Data Analyst.
 - 📫 How to reach me: **[aniket6391915300@gmail.com](mailto:aniket6391915300@gmail.com)**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💻 Tech Stack & Tools
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" /> Tech Stack & Tools
 
 ### Programming & Databases
 <p>
@@ -64,9 +64,9 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🔬 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" /> Featured Projects
 
 | Project | Description | Link |
 |---------|-------------|------|
@@ -76,18 +76,18 @@
 | **TraceId Biometric System** | Web-based biometric trace and verification system | [View Code](https://github.com/aniket6391/Trace_ID) |
 | **HumanAI Chat-APP** | Android application integrating AI capabilities for human-like chat | [View Code](https://github.com/aniket6391/HumanAI-Chat-APP) |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 Certifications
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Trophy.png" alt="Trophy" width="35" /> Certifications
 - **Data Science with Python**
 - **Oracle AI/ML Foundations**
 - **Cyber Security Basics**
 - **Java Foundation Basics**
 - **C++ Training**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📈 GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" /> GitHub Analytics
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=aniket6391&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Aniket's GitHub Stats" width="48%">
@@ -99,3 +99,14 @@
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aniket6391&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%">
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien" width="30" /> Code Contributions</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniket6391/aniket6391/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniket6391/aniket6391/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aniket6391/aniket6391/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+</div>
