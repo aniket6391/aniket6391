@@ -1,25 +1,30 @@
-<a href="https://aniket6391.github.io/Portfolio-DS-/">
-  <img align="right" src="https://aniket6391.github.io/Portfolio-DS-/aniket.jpg" alt="Aniket Sharma" width="260" style="border-radius: 15px; margin-left: 20px; margin-bottom: 20px; border: 3px solid #58A6FF;" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20my%20Profile!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Enthusiast%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=58&descSize=20" width="100%" />
 
-# Hi there, I'm Aniket Sharma 👋
-### Data Science & AI Enthusiast | Software Developer
+<br>
 
-I am a highly motivated Computer Applications student focusing on **Data Science, Machine Learning, and Artificial Intelligence**. I enjoy working with complex data to discover meaningful insights, build predictive models, and solve real-world problems using intelligent, data-driven approaches.
+<img align="left" src="https://aniket6391.github.io/Portfolio-DS-/aniket.jpg" alt="Aniket Sharma" width="220" style="border-radius: 15px; border: 3px solid #58A6FF;" />
 
-<p align="left">
+<h1>Hi there, I'm Aniket Sharma <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
+<p>
+  I am a highly motivated Computer Applications student focusing on <strong>Data Science, Machine Learning, and Artificial Intelligence</strong>. I enjoy working with complex data to discover meaningful insights, build predictive models, and solve real-world problems using intelligent, data-driven approaches.
+</p>
+
+<p>
   <a href="mailto:aniket6391915300@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/aniketsharma6391/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://aniket6391.github.io/Portfolio-DS-/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
   <a href="https://x.com/Anikets6391"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
-<br clear="both">
-<hr>
+<br clear="both"/>
+<br>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Master+of+Computer+Applications+(MCA);Specializing+in+Machine+Learning+%26+AI;Building+Intelligent+Data-Driven+Applications" alt="Typing SVG" />
 </p>
+
+---
 
 ## 🚀 About Me
 
@@ -28,6 +33,8 @@ I am a highly motivated Computer Applications student focusing on **Data Science
 - 💼 My focus areas: **Data Science, Predictive Analytics, Machine Learning, and Intelligent Application Development**.
 - 🎯 **Career Goal**: To excel as a Software Developer, Data Scientist, or Data Analyst.
 - 📫 How to reach me: **[aniket6391915300@gmail.com](mailto:aniket6391915300@gmail.com)**
+
+---
 
 ## 💻 Tech Stack & Tools
 
@@ -57,6 +64,8 @@ I am a highly motivated Computer Applications student focusing on **Data Science
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
+---
+
 ## 🔬 Featured Projects
 
 | Project | Description | Link |
@@ -67,6 +76,8 @@ I am a highly motivated Computer Applications student focusing on **Data Science
 | **TraceId Biometric System** | Web-based biometric trace and verification system | [View Code](https://github.com/aniket6391/Trace_ID) |
 | **HumanAI Chat-APP** | Android application integrating AI capabilities for human-like chat | [View Code](https://github.com/aniket6391/HumanAI-Chat-APP) |
 
+---
+
 ## 🏆 Certifications
 - **Data Science with Python**
 - **Oracle AI/ML Foundations**
@@ -74,15 +85,17 @@ I am a highly motivated Computer Applications student focusing on **Data Science
 - **Java Foundation Basics**
 - **C++ Training**
 
+---
+
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniket6391&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Aniket's GitHub Stats" width="48%">
+  <img src="https://github-stats-extended.vercel.app/api?username=aniket6391&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Aniket's GitHub Stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=aniket6391&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%">
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket6391&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aniket6391&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%">
 </p>
