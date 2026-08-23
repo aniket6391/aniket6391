@@ -4,7 +4,7 @@
 
 <img align="left" src="https://aniket6391.github.io/Portfolio-DS-/aniket.jpg" alt="Aniket Sharma" width="220" style="border-radius: 15px; border: 3px solid #58A6FF;" />
 
-<h1>Hi there, I'm Aniket Sharma <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" /></h1>
+<h3><b>Hi there, I'm Aniket Sharma <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" /></b></h3>
 
 <p>
   I am a highly motivated Computer Applications student focusing on <strong>Data Science, Machine Learning, and Artificial Intelligence</strong>. I enjoy working with complex data to discover meaningful insights, build predictive models, and solve real-world problems using intelligent, data-driven approaches.
